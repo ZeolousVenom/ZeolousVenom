@@ -2,8 +2,7 @@
 - 👀 I’m interested in Python Tkinter
 - 🌱 I’m currently learning Selenium
 - 📫 How to reach me riyasahames4567@gmail.com
-- 😄 I’m Student of Bharathidasan University 
+- 😄 I’m Student of Bharathidasan University
 <!---
-Riyas ahamed/ZeolousVenom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Riyas ahamed/ZeolousVenom is a ✨ special ✨ Aspiring MCA graduate specializing in software development with proﬁciency in Python Programming Language .my knowledge in coding, debugging, and software design to create efﬁcient and scalable software solutions.
 --->
