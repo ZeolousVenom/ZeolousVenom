@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Riyas Ahamed</h1>
 <h4 align="center">Aspiring MCA graduate specializing in software development with proﬁciency in Python Programming Language .my knowledge in coding, debugging, and software design to create efﬁcient and scalable software solutions.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar-jr&label=Profile%20views&color=0e75b6&style=flat" alt="ZeolousVenom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZeolousVenom-jr&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 I'm student of **Bharathidasan university**
 
