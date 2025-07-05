@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><iframe src="https://assets.pinterest.com/ext/embed.html?id=616711742765668974" height="100" width="100" frameborder="0" scrolling="no" ></iframe> </a>
+<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img src="https://assets.pinterest.com/ext/embed.html?id=616711742765668974" height="48" width="48" ></img> </a>
   
 <a herf="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="Naukri"/></a>
 
