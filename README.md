@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZeolousVenom-jr&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🔭 I'm student of **Bharathidasan university**
+- 🔭 Here's my [portfolio](https://riyasdev.rf.gd/) 
 
 - 🌱 I’m currently learning **DSA, AI Promting**
 
