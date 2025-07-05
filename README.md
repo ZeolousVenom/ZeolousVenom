@@ -11,13 +11,14 @@
 
 - 📫 How to reach me **riyasahames4567@gmail.com**
 
-- ⚡ Fun fact : **Do watching youtube videos**
+- ⚡ Fun fact : **learning in youtube**
 
 - - 💬 Ask me about **Tech**
 
 <h3 align="left">Connect with me:</h3>
+<br />[]
 <p align="left">
-<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img align="center" src="<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> Python Programming <br> Wordpress Developer <br> Selenium <br> VS Code <br> Canva</p>
