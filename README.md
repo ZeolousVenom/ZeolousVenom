@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>" </a>
   
-<a herf="https://www.naukri.com/mnjuser/profile?id=&altresid"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="external-N-round-latin-keyboard-others-inmotus-design-2"/></a>
+<a herf="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="Naukri"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
