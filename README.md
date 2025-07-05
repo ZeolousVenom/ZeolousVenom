@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img src="https://assets.pinterest.com/ext/embed.html?id=616711742765668974" height="48" width="48" ></img> </a>
+<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank" <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="linkedin-circled"/> </a>
   
-<a herf="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="Naukri"/></a>
+<a herf="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="Naukri"/> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
