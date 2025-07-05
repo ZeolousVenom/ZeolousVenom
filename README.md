@@ -16,9 +16,9 @@
 - - 💬 Ask me about **Tech**
 
 <h3 align="left">Connect with me:</h3>
-<br />[]
 <p align="left">
-<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img align="center" <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>" /></a>
+<a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>" </a>
+<a herf=""><img src="https://pnghdpro.com/naukri-logo/ alt="Naukri""></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> Python Programming <br> Wordpress Developer <br> Selenium <br> VS Code <br> Canva</p>
