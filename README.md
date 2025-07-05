@@ -18,7 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>" </a>
-<a herf="https://www.naukri.com/mnjuser/profile?id=&altresid"><img width="67" height="67" src="https://img.icons8.com/external-others-inmotus-design/67/external-N-round-latin-keyboard-others-inmotus-design-2.png" alt="external-N-round-latin-keyboard-others-inmotus-design-2"/></a>
+  
+<a herf="https://www.naukri.com/mnjuser/profile?id=&altresid"><img width="48" height="48" src="https://img.icons8.com/external-others-inmotus-design/67/external-N-round-latin-keyboard-others-inmotus-design-2.png" alt="external-N-round-latin-keyboard-others-inmotus-design-2"/></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> Python Programming <br> Wordpress Developer <br> Selenium <br> VS Code <br> Canva</p>
