@@ -18,21 +18,25 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/riyas-ahamed-a87091317/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="linkedin-circled"/> </a>
-  
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="Naukri"/> </a>
-
-<a href="https://www.foundit.in/seeker/profile" target="blank"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Foundit-Logo.svg" alt="foundit">
 </p>
 
 <h3 align="left">Code in | Tools:</h3>
-<p align="left"> <img src="https://camo.githubusercontent.com/4045f58fd000d13e93b7df07bd36e5949b13989ecc8718baf0e05e145901324a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67">
+<p align="left"> 
+<img src="https://camo.githubusercontent.com/4045f58fd000d13e93b7df07bd36e5949b13989ecc8718baf0e05e145901324a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67">
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" width="48" height="48">
 
 <img src="https://camo.githubusercontent.com/b123b7cd1937e4fc11267e562159764bb15946dd1d23a6ef08f3803ab49da1ba/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67">
 
-<img src="https://camo.githubusercontent.com/f905d223aaf7d318a2a34ab7a88bb5fadcc066e15b23be27e45c8cd06d4e8a74/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d7973716c2d6c6f676f2e706e67">
+<img src="https://logo.svgcdn.com/logos/tensorflow.png" width="48" height="48">
 
+<img src="https://logo.svgcdn.com/logos/pytorch-icon.png" width="50" height="50">
+
+<img src="https://logo.svgcdn.com/devicon/kaggle-original-wordmark.png" width="50" height="50">
+
+<img src="https://logo.svgcdn.com/devicon/streamlit-original-wordmark.png" width="50" height="50">
+
+<img src="https://logo.svgcdn.com/devicon/scikitlearn-original.png" width="50" height="50">
 
 </p>
 
